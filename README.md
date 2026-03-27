@@ -148,7 +148,7 @@ PORT=8080
 ## 🧪 Testando
 
 ### Criar conta
-1. Acesse `http://localhost:3000/register`
+1. Acesse `http://localhost:5173/register`
 2. Preencha email e senha
 3. Clique em "Criar Conta"
 
