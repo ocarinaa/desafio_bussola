@@ -7,11 +7,13 @@ Sistema completo de **Recrutamento e Seleção** desenvolvido com **Go (Gin)** n
 - ✅ Cadastro de usuários (EMAIL + SENHA)
 - ✅ Login com autenticação JWT
 - ✅ Dashboard com persistência de sessão
-- ✅ CRUD completo de vagas
+- ✅ CRUD completo de vagas (Criar, Editar e Excluir)
 - ✅ Candidatura em vagas
 - ✅ Busca e filtro de vagas
 - ✅ Gestão de candidaturas (recrutador)
 - ✅ Rotas protegidas por autenticação
+- ✅ Sistema de Notificações em Tempo Real (Toasts)
+- ✅ Interface Premium com Glassmorphism
 
 ## 🏗️ Arquitetura
 
@@ -84,7 +86,7 @@ npm install
 npm run dev
 ```
 
-O frontend estará disponível em `http://localhost:3000`
+O frontend estará disponível em `http://localhost:5173`
 
 ## 📝 Variáveis de Ambiente
 
